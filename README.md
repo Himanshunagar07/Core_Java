@@ -8,7 +8,6 @@
 - 🚀 Passionate about Programming and Problem Solving
 
 ---
-
 ## 💻 Current Learning Journey
 
 ### Core Java Topics
