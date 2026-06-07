@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 - 📚 B.Tech Computer Science Engineering Student
-- 🏫 Studying at Sri Aurobindo Institute of Technology (SAIT), Indore :contentReference[oaicite:0]{index=0}
+- 🏫 Studying at Sri Aurobindo Institute of Technology (SAIT), Indore 
 - ☕ Currently Learning Core Java
 - 📊 Interested in Data Science and Software Development
 - 🚀 Passionate about Programming and Problem Solving
